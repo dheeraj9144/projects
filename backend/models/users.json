@@ -1,0 +1,66 @@
+{
+
+    "user": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "age": 25,
+          "city": "New York"
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "age": 30,
+          "city": "Los Angeles"
+        },
+        {
+          "id": 3,
+          "name": "Alice Johnson",
+          "age": 22,
+          "city": "Chicago"
+        },
+        {
+          "id": 4,
+          "name": "Bob Williams",
+          "age": 35,
+          "city": "San Francisco"
+        },
+        {
+          "id": 5,
+          "name": "Eva Davis",
+          "age": 28,
+          "city": "Miami"
+        },
+        {
+          "id": 6,
+          "name": "Mike Brown",
+          "age": 32,
+          "city": "Seattle"
+        },
+        {
+          "id": 7,
+          "name": "Sophie Taylor",
+          "age": 27,
+          "city": "Boston"
+        },
+        {
+          "id": 8,
+          "name": "Chris Turner",
+          "age": 40,
+          "city": "Denver"
+        },
+        {
+          "id": 9,
+          "name": "Olivia Martin",
+          "age": 23,
+          "city": "Austin"
+        },
+        {
+          "id": 10,
+          "name": "David Wilson",
+          "age": 38,
+          "city": "Phoenix"
+        }
+      ]
+    }
+      
